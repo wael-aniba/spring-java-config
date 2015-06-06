@@ -1,0 +1,32 @@
+@CHARSET "ISO-8859-1";
+
+div {
+	border: dotted 1px;
+	padding: 10px;
+	margin: 10px;
+	
+}
+
+.table th {
+	border: 1px solid gray;
+	padding: 3px;
+	background-color: pink;
+}
+
+.table td {
+	border: 1px solid gray;
+	padding: 2px;
+	background-color: white;
+}
+
+.error {
+	color: red;
+	font: bold;
+}
+
+.siteTilte {
+	text-align: center;
+	font: bold;
+	font-size: 70px;
+	color: gray;
+}
